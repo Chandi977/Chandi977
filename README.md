@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chandi977
+- 👋 Hi, I’m Chandi Charan Mahato
 - 👀 I’m interested in Android App Development and AI
 - 🌱 I’m currently learning Netaji Subhas University,Jamshedpur
 - 💞️ Dream Company Google
