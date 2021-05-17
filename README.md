@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandi Charan Mahato
 - 👀 I’m interested in Android App Development and AI
-- 🌱 I’m currently learning Netaji Subhas University,Jamshedpur
+- 🌱 I’m currently learning in Netaji Subhas University,Jamshedpur
 - 💞️ Dream Company Google
 - 📫 How to reach me pappumahato000@gmail.com
 
