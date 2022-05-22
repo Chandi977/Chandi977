@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XDBJq-Zh0nQAVykH5-NuyLn--XTb-eyI/view?usp=sharing)
 
+![Profile views](https://gpvc.arturio.dev/Chandi977)  
+
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chandi977)](https://github.com/ryo-ma/github-profile-trophy)
