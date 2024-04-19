@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandi Charan Mahato</h1>
 <h3 align="center">I am self taught Software Developer.</h3>
 
-- 🔭 I’m currently working on [Banjara Tours & Travels](https://github.com/Chandi977/Banjara)
+- 🔭 I’m currently working on [DSA]
 
-- 🌱 I’m currently learning **Angular, React, PHP Laravel**
+- 🌱 I’m currently learning **Everything I can**
 
 - 👨‍💻 All of my projects are available at [Here](https://chandi977.github.io/Portfolio-2.0/)
 
