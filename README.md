@@ -3,8 +3,9 @@
 
 ### About me 
 
-<iframe align='right' src="https://giphy.com/embed/4Ev0Ari2Nd9io" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ninja-scroll-birds-4Ev0Ari2Nd9io">via GIPHY</a></p>
-<!-- <img align='right' src="giphy.com/embed/4Ev0Ari2Nd9io" width="400"> -->
+
+
+<img align='right' src="![anime](https://github.com/Chandi977/Chandi977/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c)" width="400"> 
 
 ```js
 document.write("Namaste _/\_");
