@@ -4,7 +4,7 @@
 ### About me 
 
 
-<img align='right' src="https://giphy.com/embed/4Ev0Ari2Nd9io/giphy.gif" width="400">
+<img align='right' src="giphy.com/embed/4Ev0Ari2Nd9io" width="400">
 
 ```js
 document.write("Namaste _/\_");
