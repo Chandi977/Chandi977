@@ -2,10 +2,7 @@
 ## Welcome to my Github Profile 
 
 ### About me 
-
-
-
-<img align='right' src="https://github.com/Chandi977/Chandi977/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c" width="400"> 
+     <img align='right' src="https://github.com/Chandi977/Chandi977/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c" width="400"> 
 
 ```js
 document.write("Namaste _/\_");
