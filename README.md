@@ -3,8 +3,8 @@
 
 ### About me 
 
-
-<img align='right' src="giphy.com/embed/4Ev0Ari2Nd9io" width="400">
+<p align='right'><a href="https://giphy.com/gifs/ninja-scroll-birds-4Ev0Ari2Nd9io">via GIPHY</a></p>
+<!-- <img  src="giphy.com/embed/4Ev0Ari2Nd9io" width="400"> -->
 
 ```js
 document.write("Namaste _/\_");
