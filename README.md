@@ -3,7 +3,8 @@
 
 ### About me 
 
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
+
+<img align='right' src="https://giphy.com/embed/5nsiFjdgylfK3csZ5T" width="400">
 
 ```js
 document.write("Namaste _/\_");
