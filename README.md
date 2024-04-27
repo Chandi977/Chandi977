@@ -3,8 +3,8 @@
 
 ### About me 
 
-
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ynx1sj5Wz2atO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ynx1sj5Wz2atO">via GIPHY</a></p>
+<!-- <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400"> -->
 
 ```js
 document.write("Namaste _/\_");
