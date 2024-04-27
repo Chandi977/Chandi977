@@ -3,8 +3,8 @@
 
 ### About me 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/ynx1sj5Wz2atO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ynx1sj5Wz2atO">via GIPHY</a></p>
-<!-- <img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400"> -->
+
+<img align='right' src="https://giphy.com/embed/4Ev0Ari2Nd9io/giphy.gif" width="400">
 
 ```js
 document.write("Namaste _/\_");
@@ -68,7 +68,7 @@ ___
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31on7z2tmzeehsn33pnw755mvbxe&cover_image=true&theme=default&show_offline=false&background_color=0d0c0c&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31on7z2tmzeehsn33pnw755mvbxe&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ----
