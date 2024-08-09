@@ -11,14 +11,14 @@ const Charan = {
     pronouns: "he" | "his",
     status: Student,
     technologies: {
-        programming: [C,C++, Java , Python, JavaScript],
-        frontEnd: [HTML, CSS, SASS, Javascript],
-        backEnd: [PHP, Node.js, MySql, Python],
-        libraries: [Bootstrap, JQuery]
+        programming: ["C","C++","Java","Python","JavaScript"],
+        frontEnd: ["HTML", "CSS", "SASS", "Javascript"],
+        backEnd: ["PHP","Node.js","MySql","Python"],
+        libraries: ["Bootstrap", "JQuery"]
     },
-    editors: [VS Code],
-    learning: [C++, Android, Full Stack],
-    contact: pappumahato000@gmail.com
+    editors: ["VS Code", "Android Studio","Eclipse"],
+    learning: [C++, Android, "Full Stack", "MERN"],
+    contact: "pappumahato000@gmail.com"
 };
 
 if(succeed == false){
