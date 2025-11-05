@@ -72,12 +72,10 @@ const Charan = {
   <img src="https://github-profile-trophy.vercel.app/?username=Chandi977&theme=darkhub">
 </p>
 ---
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandi977&theme=blue-green&show_icons=true&count_private=true" width="400">
-
----
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandi977&theme=chartreuse-dark&layout=compact" width="335">
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Chandi977&theme=blue-green&show_icons=true&count_private=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandi977&theme=chartreuse-dark&layout=compact" width="40%">
+</p>  
 </p>
 
 ---
