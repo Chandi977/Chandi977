@@ -2,7 +2,7 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Chandi Charan Mahato!
 ### MCA '25 | Backend-Focused MERN Stack Developer | 500+ LeetCode Problems | Open to SWE Internships
 
-<img align="right" src="https://github.com/Chandi977/Chandi977/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c" width="398" alt="Coding GIF" />
+<img align="right" src="https://github.com/Chandi977/Chandi977/assets/55855799/66bf7e51-ea3f-4522-b23d-f461c3ab0a4c" width="400" alt="Coding GIF" />
 
 ```js
 document.write("Namaste _/\_");
