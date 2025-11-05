@@ -83,9 +83,7 @@ const Charan = {
 
 ### 🎧 Spotify - Now Playing
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31on7z2tmzeehsn33pnw755mvbxe&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0c0c&interchange=false&bar_color=53b14f&bar_color_cover=false&cachebuster=1)
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kzgrjzuymsg2rx36xhj6bc675m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kzgrjzuymsg2rx36xhj6bc675m&redirect=true)
 ---
 
 ### 📫 Let's Connect
