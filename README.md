@@ -63,13 +63,11 @@ const Charan = {
 ### 📊 GitHub Analytics
 
 <p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandi977&theme=nord_dark">
-  
----
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandi977&theme=nord_dark" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandi977&theme=nord_dark" height="180">
+</p>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandi977&theme=nord_dark" >
-  
----
 
   <img src="https://github-profile-trophy.vercel.app/?username=Chandi977&theme=darkhub">
 
