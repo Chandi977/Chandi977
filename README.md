@@ -68,7 +68,7 @@ const Charan = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandi977&theme=nord_dark" height="180">
 </p>
 
-<p align="center"
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chandi977&theme=darkhub">
 </p>
 ---
