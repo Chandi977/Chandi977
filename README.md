@@ -96,8 +96,6 @@ const Charan = {
         <img src="https://komarev.com/ghpvc/?username=Chandi977&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
       </p>
     </td>
-
-    <!-- 🎧 Spotify Section (Right) -->
     <td width="55%" valign="top" align="right">
       <h3 align="right">🎧 Spotify - Now Playing</h3>
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kzgrjzuymsg2rx36xhj6bc675m&redirect=true">
