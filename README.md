@@ -62,21 +62,27 @@ const Charan = {
 
 ### 📊 GitHub Analytics
 
-<p align="center"> 
-  <p align="center">
+<!-- 🧠 Language Summary Cards -->
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chandi977&theme=nord_dark" height="180">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandi977&theme=nord_dark" height="180">
 </p>
 
+---
+
+<!-- 🏆 GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chandi977&theme=darkhub">
 </p>
+
 ---
+
+<!-- 📊 GitHub Stats -->
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Chandi977&theme=blue-green&show_icons=true&count_private=true" width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandi977&theme=chartreuse-dark&layout=compact" width="40%">
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandi977&theme=blue-green&show_icons=true&count_private=true" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandi977&theme=chartreuse-dark&layout=compact" width="45%">
 </p>
+
 
 ---
 
