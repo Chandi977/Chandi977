@@ -76,7 +76,7 @@ const Charan = {
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandi977&theme=radical">
-  <img src="https://github-profile-graph.vercel.app/api?username=Chandi977&theme=react-dark&hide_border=true">
+  
 </p>
 
 ---
