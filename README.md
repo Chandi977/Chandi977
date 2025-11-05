@@ -81,21 +81,31 @@ const Charan = {
 
 ---
 
-### 🎧 Spotify - Now Playing
+<table width="100%">
+  <tr>
+    <!-- 📫 Contact Section (Left) -->
+    <td width="45%" valign="top">
+      <h3>📫 Let's Connect</h3>
+      <ul>
+        <li>🌐 <a href="https://charan-portfolio-htvx.onrender.com/">Portfolio</a></li>
+        <li>🔗 <a href="https://www.linkedin.com/in/chandi-charan-mahato-3631a7178/">LinkedIn</a></li>
+        <li>💻 <a href="https://github.com/Chandi977">GitHub Projects</a></li>
+        <li>📬 <a href="mailto:charan.f.sde@gmail.com">charan.f.sde@gmail.com</a></li>
+      </ul>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=Chandi977&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+      </p>
+    </td>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31kzgrjzuymsg2rx36xhj6bc675m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31kzgrjzuymsg2rx36xhj6bc675m&redirect=true)
+    <!-- 🎧 Spotify Section (Right) -->
+    <td width="55%" valign="top" align="right">
+      <h3 align="right">🎧 Spotify - Now Playing</h3>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kzgrjzuymsg2rx36xhj6bc675m&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kzgrjzuymsg2rx36xhj6bc675m&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true" width="100%" alt="Spotify Now Playing">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
-
-### 📫 Let's Connect
-
-- 🌐 [Portfolio](https://charan-portfolio-htvx.onrender.com/)
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chandi-charan-mahato-3631a7178/)
-- 💻 [GitHub Projects](https://github.com/Chandi977)
-- 📬 charan.f.sde@gmail.com
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Chandi977&label=Profile%20views&color=0e75b6&style=flat" alt="chandi977" />
-</p>
 
 ![Profile views](https://profile-counter.glitch.me/Chandi977/count.svg)
