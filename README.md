@@ -21,7 +21,8 @@ const Charan = {
   currentlyExploring: ["System Design", "Microservices", "Cloud Deployment"],
   leetcode: "1705+ Rating | Top 16% | 500+ Problems",
   contact: "charan.f.sde@gmail.com",
-};```
+};
+```
 
 ---
 
