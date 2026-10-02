@@ -12,51 +12,16 @@
 ```js
 const Charan = {
   role: "Full Stack Developer @ Prem Industries Pvt. Ltd.",
-
-  focus: [
-    "Backend Engineering",
-    "REST APIs",
-    "Real-time Systems",
-    "Scalable Architecture",
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "TypeScript",
-    "MongoDB",
-    "Redis",
-    "BullMQ",
-    "Socket.IO",
-  ],
-
-  frontend: [
-    "React.js",
-    "Next.js",
-    "JavaScript",
-    "Tailwind CSS",
-  ],
-
-  infrastructure: [
-    "Docker",
-    "AWS",
-    "Git",
-    "Postman",
-    "Cloudinary",
-  ],
-
-  currentlyExploring: [
-    "System Design",
-    "Microservices",
-    "Distributed Systems",
-    "Cloud Architecture",
-  ],
-
+  focus: "Backend Engineering · REST APIs · Real-time Systems",
+  techStack: {
+    backend:   ["Node.js", "Express.js", "MongoDB", "Redis", "WebSockets"],
+    frontend:  ["React.js", "Next.js", "JavaScript", "Tailwind CSS"],
+    tools:     ["Git", "Postman", "Firebase", "Cloudinary", "MySQL"],
+  },
+  currentlyExploring: ["System Design", "Microservices", "Cloud Deployment"],
   leetcode: "1705+ Rating | Top 16% | 500+ Problems",
-
   contact: "charan.f.sde@gmail.com",
-};
-```
+};```
 
 ---
 
